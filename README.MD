@@ -13,4 +13,5 @@
   - [远程仓库管理](./example/02-远程仓库管理.md)  
   - [修改Git配置](./example/03-修改Git配置.md)  
   - [更新不上传](./example/04-更新不上传.md)  
-  - [清理commit记录](./example/05-清理commit记录.md)  
+  - [清理commit记录](./example/05-清理commit记录.md)
+  - [清理所有提交记录](./example/06-让当前库成为一个新库.md) 
